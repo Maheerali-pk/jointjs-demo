@@ -707,7 +707,7 @@ export default function Home() {
                 draggedShape === "triangle" ? "opacity-50" : ""
               }`}
             >
-              <div className="h-0 w-0 border-b-[24px] border-l-[12px] border-r-[12px] border-b-green-500 border-l-transparent border-r-transparent"></div>
+              <div className="h-0 w-0 border-b-[48px] border-l-[24px] border-r-[24px] border-b-green-500 border-l-transparent border-r-transparent"></div>
               <span className="font-medium text-black dark:text-zinc-50">
                 Triangle
               </span>
